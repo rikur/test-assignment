@@ -11,9 +11,9 @@
   "author": "mighty brain",
   "license": "Apache-2.0",
   "dependencies": {
-    "corestore": "^6.8.3",
-    "hyperchat": "rikur/hyperchat",
-    "hyperswarm": "^4.5.1",
+    "corestore": "^6.15.10",
+    "hyperchat": "https://github.com/rikur/hyperchat.git#commit=e2dc3f66458c8d79d3d223cc70b3d8b337e8ec60",
+    "hyperswarm": "^4.7.4",
     "memorable-moniker": "^0.5.1",
     "random-access-memory": "^6.2.0",
     "zx": "^7.2.3"
